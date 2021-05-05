@@ -1,0 +1,22 @@
+https://docs.google.com/presentation/d/1WsQuVgcMYTqCCM5H3aDo50kd7WF__RRYJ-r8T_Y3ECo/edit
+
+https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-04.md
+
+
+Tipos de datos compuestos (Parte 1): Tuplas y datas, pattern matching e inmutabilidad
+Temas de la clase
+En esta clase vimos los siguientes temas:
+
+Tipos compuestos: Tuplas y datas
+Más sobre datas
+Pattern Matching
+Inmutabilidad
+Typeclasses
+Acá pueden encontrar el código de la clase y la clase en vivo de la cursada 2020 Tipado, typeclasses + Datas y Tuplas.
+
+Para profundizar y ejercitar
+De la sección de apuntes: Módulos 3 y 7 de funcional (teniendo en cuenta que todavía no vimos listas).
+De Mumuki:
+Alternativas: Guardas y Patrones
+Modelado (hasta ejercicio 13)
+Práctica de Inferencia de Tipos (excepto ejercicios 6 y 7, deberían poder hacer todos con lo que vimos hasta ahora)
