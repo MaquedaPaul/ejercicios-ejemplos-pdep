@@ -1,0 +1,32 @@
+https://docs.google.com/presentation/d/1iY1yf9feWD4fd3dQdhbahjde068vkBkxhswlEbtQSXg/edit#slide=id.g73078e2231_0_16
+https://docs.google.com/presentation/d/1k0wcnNHbHUXHV-qq2JwLo-j2XMSKlQv-y-etB3Rgv_8/edit#slide=id.g7f895ca751_0_0
+
+https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-02.md#introducci%C3%B3n-a-funcional
+
+Introducción a Funcional
+Temas de la clase
+En esta clase arrancamos con el paradigma funcional, para el cual usaremos el lenguaje Haskell, y vimos los siguientes temas:
+
+Concepto de función
+Cumplen con unicidad y existencia, esto nos permite asegurar que luego de aplicar una función obtendremos siempre un único valor.
+Tienen transparencia referencial
+Las variables son incógnitas como las de matemática, no pensarlas como posiciones de memoria, no se pueden asignar.
+Su principal operación: la aplicación.
+Introducción a tipado de Haskell:
+Tipos de datos simples (Int, Float, Bool, ...).
+Entender de qué tipo son las funciones, en base al tipo de su dominio y de su imagen.
+Más adelante vamos a ampliar mucho más este tema y agregar más tipos de datos.
+Pattern Matching con tipos básicos
+Funciones por Partes o Guardas
+Intro a Recursividad (sin listas)
+Acá pueden encontrar el código de la clase y videos de clase donde explicamos estos temas:
+
+Intro a Funcional con Haskell
+Intro a Funcional, primeros ejemplos
+Intro a Pattern Matching y Guardas
+Para profundizar y ejercitar
+De la sección de apuntes: Módulo 1 de funcional
+De Mumuki (Capítulo de Programación Funcional), las guías:
+Valores y Funciones (Ejercicios 1 al 9 inclusive).
+Práctica Valores y Funciones (todavía no vimos composición, si les pide usar ese concepto, vale saltear el ejercicio y hacerlo luego).
+Alternativas: Guardas y Patrones (hasta ejercicio 9 inclusive).
